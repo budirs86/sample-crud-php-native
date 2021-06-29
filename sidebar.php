@@ -2,7 +2,7 @@
   <!-- Brand Logo -->
   <a href="?mod=home" class="brand-link">
     <img src="dist/img/logo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-    <span class="brand-text font-weight-light">My CRM</span>
+    <span class="brand-text font-weight-light">My Mini CMS</span>
   </a>
 
   <!-- Sidebar -->
